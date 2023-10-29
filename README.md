@@ -3,6 +3,8 @@
 <h2>Description</h2>
 This assignment focuses on Polymorphism and Exception handling. The goal was to show the value of a class that “hides” the details of an implementation (called a Façade pattern) — here, this will be the responsibility of the Company class.
 
+I have a created different types of Employees, which are used by the Company class. Additionally, I have created custom Exceptions to be thrown in the classes. The try - catch was handled in the tests provided by my Professor. 
+
 <br />
 
 
